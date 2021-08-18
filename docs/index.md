@@ -5,15 +5,15 @@
 Bayesian Data Analysis and Machine Learning for Physical Sciences
 ====================================================================
 
-Instructor: Uro&#353; Seljak, useljak@berkeley.edu <br>
+Instructor: Uro&#353; Seljak, <useljak@berkeley.edu> <br>
 &nbsp; Office hours: TBD
 
-GSI: Adrian Bayer, abayer@berkeley.edu <br>
+GSI: Adrian Bayer, <abayer@berkeley.edu> <br>
 &nbsp; Office hours: TBD
   
 Lecture: <b>Tuesday, Thursday 9:30AM-11:00AM, North Gate 105 </b> <br>
 Discussion: <b>Wednesday 1:00PM-2:00PM, Wheeler 204 </b> <br>
-&nbsp; &nbsp; &nbsp; &nbsp; or <b>Wednesday 5:00PM-6:00PM, Cory 241 </b> <br>
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; or <b>Wednesday 5:00PM-6:00PM, Cory 241 </b> <br>
 Units: <b>4.0</b>
 
 
@@ -24,13 +24,13 @@ Course Syllabus
 ---------------
 
 **Learning goals**:
-The goals of the course is to get acquainted with modern computational methods used in physical sciences, including numerical analysis methods, data science and Bayesian statistics. We will introduce a number of concepts that are useful in physical sciences at varying depth levels. We will cover main numerical methods used in physical sciences. Most of the statistical concepts will be Bayesian, emphasizing the concepts that have a connection to physical sciences, such as classical and statistical mechanics. We will focus on data science and data analysis applications that are often encountered in real world of physical sciences. We will review many of the machine learning concepts and methods.
+The goal of the course is to get acquainted with modern computational methods used in the physical sciences, including numerical analysis methods, data science and Bayesian statistics. We will introduce a number of concepts that are useful in physical sciences at varying levels of depth. We will cover the main numerical methods used in physical sciences. Most of the statistical concepts will be Bayesian, emphasizing the concepts that have a connection to physical sciences, such as classical and statistical mechanics. We will focus on data science and data analysis applications that are often encountered in real world of physical sciences. We will review many of machine learning concepts and methods.
 
 **Target audience**:
-Target student population are upper division undergraduates from physical science departments, as well as beginning graduate students from the same departments. The course is also suitable for graduate students looking for an introduction to programming and numerical methods in python.
+The target student population is upper division undergraduates from physical science departments, as well as beginning graduate students from the same departments. The course is also suitable for graduate students looking for an introduction to programming and numerical methods in python.
 
 **Course structure**:
-Each week there will be a set of 3 hour lectures discussing theoretical and practical underpinnings of the specific topic, together with its most common applications in physical sciences. Class participation is expected in the form of weekly reading the lecture in advance, submitting comments and questions on the lecture and answering a short set of questions. There will be eight python based homework assignments, applying the methods to physical science based applications. A weekly one hour discussion will focus on the lecture material and homeworks. There will be 3 longer projects spread over the term.
+Each week there will be a set of 3 hour lectures discussing the theoretical and practical underpinnings of the specific topic, together with its most common applications in the physical sciences. Class participation is expected via weekly reading of the lecture notes in advance, submitting comments and questions on the lecture, and answering a short set of questions. There will be eight python-based homework assignments, which will apply the methods to physical science based examples. A weekly one hour discussion will focus on the lecture material and homeworks. There will be 3 longer projects spread over the term.
 
 **Prerequsites**:
 Undergraduate students: basic introduction to Python programming at the level of PHY77 or permission from instructor.
@@ -149,11 +149,11 @@ Homeworks and Projects
 
 Throughout the course, students will complete and electronically submit one homework assignment (code) per week.
 This code will be run on test cases to check if it produces appropriate results. Students are encouraged to discuss 
-homeworks with other students, but should submit their own solutions. Homeworks will use the concepts developed in the 
+homeworks amongst each other, but should submit their own solutions. Homeworks will use the concepts developed in the 
 lectures and apply to relatively simple problems. 
 
-Projects are larger assignments intended to teach you how to combine ideas from the course in interesting ways and apply them 
-to real data. There are three projects during the semester. You are encouraged to complete projects in pairs; your partner should be another student in your section. Work together to ensure that both group members understand the complete program you create.
+Projects are larger assignments intended to teach students how to combine ideas from the course in interesting ways and apply them 
+to real data. There are three projects during the semester. You are encouraged to complete projects in pairs; your partner should be another student in your section. Work together to ensure that both group members understand the solution.
 
 Homeworks and projects are to be submitted using Jupyter notebook in Python.
 
