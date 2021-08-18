@@ -16,7 +16,7 @@ Discussion: <b>Wednesday 1:00PM-2:00PM, Wheeler 204 </b> <br>
 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  &nbsp; &nbsp;  &nbsp; &nbsp; or <b>Wednesday 5:00PM-6:00PM, Cory 241 </b> <br>
 Units: <b>4.0</b>
 
-
+Link to Piazza: <https://piazza.com/berkeley/fall2021/physics188288>
 
 Class Number: 25131
 
