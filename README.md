@@ -1,6 +1,6 @@
 Look for files in docs/ directory
 
-https://phy188-288-ucb.github.io/seljak-fall-2019/
+https://phy188-288-ucb.github.io/seljak-fall-2021/
 
 To build locally,
 
@@ -19,10 +19,6 @@ To build locally,
     # sometimes need to run twice or github won't refresh the CDN cache (or something alike)
     mkdocs gh-deploy
 
-
-Issues related to the datahub service, shall be filed at
-
-https://github.com/berkeley-dsep-infra/datahub/issues
 
 
 Adding a lecture note:
