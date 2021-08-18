@@ -13,7 +13,7 @@ GSI: Adrian Bayer, <abayer@berkeley.edu> <br>
   
 Lecture: <b>Tuesday, Thursday 9:30AM-11:00AM, North Gate 105 </b> <br>
 Discussion: <b>Wednesday 1:00PM-2:00PM, Wheeler 204 </b> <br>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; or <b>Wednesday 5:00PM-6:00PM, Cory 241 </b> <br>
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  &nbsp; &nbsp;  &nbsp; &nbsp; or <b>Wednesday 5:00PM-6:00PM, Cory 241 </b> <br>
 Units: <b>4.0</b>
 
 
