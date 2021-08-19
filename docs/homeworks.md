@@ -1,13 +1,12 @@
 Homeworks 
 =========
 
-This page contains a list of links to PHY188/288 homeworks.
-
-You can also access assignments from a link posted on the  bCourses website,  under “Assignments",
+You can access assignments from a link posted on the bCourses website, under “Assignments",
 which contains the most updated information. 
 
 **Python Tutorial**: 
 <br> &nbsp; &nbsp; [Intro to Python](http://datahub.berkeley.edu/user-redirect/interact?account=phy188-288-ucb&repo=seljak-fall-2020&branch=master&path=Homework/PythonTutorial/IntrotoPython.ipynb) (source:  https://github.com/berkeley-physics/intro_python)
+
 
 <!-- - **HW1 (Intro to Statistics)** (Due Sept. 09, 11:59pm): 
  <br> &nbsp; &nbsp; [Physics 188](http://datahub.berkeley.edu/user-redirect/interact?account=phy188-288-ucb&repo=seljak-fall-2020&branch=master&path=Homework/HW1/HW1_188.ipynb)/    [Physics 288](http://datahub.berkeley.edu/user-redirect/interact?account=phy188-288-ucb&repo=seljak-fall-2020&branch=master&path=Homework/HW1/HW1_288.ipynb)/    [Solution](http://datahub.berkeley.edu/user-redirect/interact?account=phy188-288-ucb&repo=seljak-fall-2020&branch=master&path=Homework/HW1/HW1_solution.ipynb
@@ -67,8 +66,8 @@ which contains the most updated information.
 Instructions
 ------------
 
-For the remainder of the semester, you are going to be writing and running the homeworks remotely on Google Colaboratory.
-The greatest advantage of using Colab is that it supports free GPU, and this will be particularly useful for future assignments.
+You are going to be writing and running the homeworks remotely on Google Colaboratory.
+The greatest advantage of using Colab is that it supports free GPU, and this will be particularly useful for the final project.
 
 First, make sure that you are logged in to your Google Drive account. 
 Open https://colab.research.google.com, and you can go over the Colab introduction notebook. 
