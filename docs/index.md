@@ -6,10 +6,12 @@ Bayesian Data Analysis and Machine Learning for Physical Sciences
 ====================================================================
 
 Instructor: Uro&#353; Seljak, <useljak@berkeley.edu> <br>
-&nbsp; Office hours: TBD
+&nbsp; Office hours: I welcome an opportunity to learn from and get to know all my students; thus, I invite you to visit me during my office hours scheduled as follows: Thursday 11:00AM-12:00PM on zoom (see syllabus on bcourses for link) or in person Campbell Hall 359.
+
 
 GSI: Adrian Bayer, <abayer@berkeley.edu> <br>
-&nbsp; Office hours: TBD
+&nbsp; Office hours: Tuesday 7:00PM-8:00PM, Physics North 109, or via zoom (email for link).
+
   
 Lecture: <b>Tuesday, Thursday 9:30AM-11:00AM, North Gate 105 </b> <br>
 Discussion: <b>Wednesday 1:00PM-2:00PM, Wheeler 204 </b> <br>
