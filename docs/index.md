@@ -38,7 +38,7 @@ Each week there will be a set of 3 hour lectures discussing the theoretical and 
 Undergraduate students: basic introduction to Python programming at the level of PHY77 or permission from instructor.
 Graduate students: none.
 
-**Grades**: 40% projects, 40% homeworks, 20% quizzes.
+**Grades**: 45% projects, 40% homeworks, 15% quizzes. In addition, one may get an extra 5% from in person class participation for those that are specially active with questions (for a total 20% for participation, in class and quiz). 
 
 **Lecture 1:** Introduction to probability and Bayesian inference: general rules of probability, generating functions, moments and cumulants, binomial and multinomial, Poisson, gaussian distributions, multi-variate distributions, joint probability, marginal probability, Bayes theorem, forward and inverse probability, from probability to inference and the meaning of probability, prior, likelihood and posterior, interval estimates, comparison between Bayesian and classical statistics, Bayesian versus classical hypothesis testing (p-value) 
   References: Ch. 2.1-2.3, 3 of MacKay, Ch. 2 of Kardar, Ch. 1-2 of Gelman et al, Bayesian data analysis
