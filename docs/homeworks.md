@@ -7,6 +7,8 @@ which contains the most updated information.
 **Python Tutorial**: 
 <br> &nbsp; &nbsp; [Intro to Python](http://datahub.berkeley.edu/user-redirect/interact?account=phy188-288-ucb&repo=seljak-fall-2020&branch=master&path=Homework/PythonTutorial/IntrotoPython.ipynb) (source:  https://github.com/berkeley-physics/intro_python)
 
+Assignments
+------------
 
 **HW1 (Intro to Statistics)** (Due Sept. 08, 11:59pm): [Assignment](https://drive.google.com/file/d/1JKahNkfw-0wpy2FweJl9H9CcQtEwac54/view?usp=sharing)
 
