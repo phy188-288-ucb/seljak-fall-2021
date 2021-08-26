@@ -10,7 +10,7 @@ which contains the most updated information.
 Assignments
 ------------
 
-**HW1 (Intro to Statistics)** (Due Sept. 08, 11:59pm): [Assignment](https://drive.google.com/file/d/1JKahNkfw-0wpy2FweJl9H9CcQtEwac54/view?usp=sharing)
+[**HW1 (Intro to Statistics)**](https://drive.google.com/file/d/1JKahNkfw-0wpy2FweJl9H9CcQtEwac54/view?usp=sharing) (Due Sept. 08, 11:59pm)
 
 
 <!-- - **HW1 (Intro to Statistics)** (Due Sept. 09, 11:59pm): 
