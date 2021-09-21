@@ -11,7 +11,6 @@ Assignments
 ------------
 
 [**HW1 (Intro to Statistics)**](https://drive.google.com/file/d/1JKahNkfw-0wpy2FweJl9H9CcQtEwac54/view?usp=sharing) (Due Sept. 08, 11:59pm)
-[**Solution**](https://github.com/phy188-288-ucb/seljak-fall-2021/blob/main/Homework/HW1/HW1_solution.ipynb)
 
 <!-- - **HW1 (Intro to Statistics)** (Due Sept. 09, 11:59pm): 
  <br> &nbsp; &nbsp; [Physics 188](http://datahub.berkeley.edu/user-redirect/interact?account=phy188-288-ucb&repo=seljak-fall-2020&branch=master&path=Homework/HW1/HW1_188.ipynb)/    [Physics 288](http://datahub.berkeley.edu/user-redirect/interact?account=phy188-288-ucb&repo=seljak-fall-2020&branch=master&path=Homework/HW1/HW1_288.ipynb)/    [Solution](http://datahub.berkeley.edu/user-redirect/interact?account=phy188-288-ucb&repo=seljak-fall-2020&branch=master&path=Homework/HW1/HW1_solution.ipynb
